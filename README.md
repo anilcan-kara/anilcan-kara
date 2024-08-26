@@ -18,7 +18,7 @@
 </div>  
 <br/>  
 
-### Utilizing in my current professional work life ...
+### Also, Utilizing in my current professional work life ...
 <div>
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="60" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="60" /></a>  
@@ -45,7 +45,7 @@
 </div>  
 <br/>  
 
-### I also happy with ...  
+### Also, I do not hesitate with ...  
 <div>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="48" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="48" /></a>  
