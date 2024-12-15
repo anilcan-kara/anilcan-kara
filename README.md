@@ -1,4 +1,4 @@
-### <div>👨‍💻 Anilcan Kara 92 - Software Developer 08</div>
+### <div>👨‍💻 Anilcan Kara - Software Developer 2k8</div>
 
 <br/>
 
