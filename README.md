@@ -1,4 +1,4 @@
-### <div>👨‍💻 Anilcan Kara - Software Developer 2k8</div>
+### <div>👨‍💻 Anilcan Kara - Software Developer since 2k8</div>
 
 <br/>
 
