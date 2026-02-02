@@ -2,7 +2,7 @@
 
 <br/>
 
-### My field ...
+### Master at
 <div>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="60" /></a>
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" /></a>
@@ -18,7 +18,7 @@
 
 <br/>
 
-### Professional field ...
+### Senior at
 <div>
   
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="42" /></a>
@@ -49,7 +49,7 @@
 </div>
 <br/>
 
-### Hobby ...
+### Achieved at
 <div>
   <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="32" /></a>
   <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="32" /></a>
